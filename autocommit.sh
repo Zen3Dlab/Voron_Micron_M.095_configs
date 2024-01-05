@@ -69,11 +69,11 @@ grab_version(){
 
 push_config(){
   cd $config_folder
-  git pull origin master
+  git pull origin main
   git add .
   current_date=$(date +"%Y-%m-%d %T")
   git commit -m "$m0 from $current_date" -m "$m1" -m "$m2" -m "$m3" -m "$m4"
-  git push origin master
+  git push origin main
 }
 
 m0="$*"
