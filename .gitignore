@@ -1,5 +1,5 @@
- KAMP
- mainsail.cfg
- saved_variables.cfg
- adxl_results/belts/*.csv
- adxl_results/vibrations/*.tar.gz
+KAMP
+mainsail.cfg
+saved_variables.cfg
+adxl_results/belts/*.csv
+adxl_results/vibrations/*.tar.gz
