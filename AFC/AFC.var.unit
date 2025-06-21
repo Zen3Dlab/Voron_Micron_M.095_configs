@@ -24,7 +24,7 @@
             "runout_lane": "NONE",
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "Calibrating"
+            "status": "None"
         },
         "lane2": {
             "name": "lane2",
@@ -50,7 +50,7 @@
             "runout_lane": "NONE",
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "Loaded"
+            "status": "None"
         },
         "lane3": {
             "name": "lane3",
@@ -76,7 +76,7 @@
             "runout_lane": "NONE",
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "Loaded"
+            "status": "None"
         },
         "lane4": {
             "name": "lane4",
@@ -102,7 +102,7 @@
             "runout_lane": "NONE",
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "Loaded"
+            "status": "Calibrating"
         }
     },
     "system": {
